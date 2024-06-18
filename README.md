@@ -70,7 +70,7 @@ No known bugs at this time.
 ###### Version 4
 
 - Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
-- Thomas Wang - [Github](https://github.com/thomaspwang) / [Twitter](https://twitter.com/thpwang)
+- Godwin Bruce - [Github](https://github.com/BNgeniuz) / [Twitter](https://twitter.com/BNgeniuz)
 
 ###### Version 3
 
