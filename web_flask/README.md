@@ -16,3 +16,5 @@
         - [icon_bed.png](static/images/icon_bed.png) - icon of a bed.
         - [icon_group.png](static/images/icon_group.png) - icon of a group of people.
         - [logo.png](static/images/logo.png) - HBnB logo.
+
+Happy coding
